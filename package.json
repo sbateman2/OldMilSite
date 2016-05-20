@@ -1,0 +1,35 @@
+{
+  "name": "oldmilsite",
+  "version": "1.0.0",
+  "description": "ecommerce site for old mil",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.9.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "webpack": "^1.13.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbateman2/OldMilSite.git"
+  },
+  "keywords": [
+    "oldmil",
+    "ecommerce"
+  ],
+  "author": "shane bateman & casey bateman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbateman2/OldMilSite/issues"
+  },
+  "homepage": "https://github.com/sbateman2/OldMilSite#readme"
+}
